@@ -1,1 +1,1 @@
-# generic-library-graphservice-template-dotnetcore
+# class-library-graphservice-template-dotnetcore
