@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ClassLibrary.GraphService/ClassLibrary.GraphService/obj
+/ClassLibrary.GraphService/.vs/ClassLibrary.GraphService/v16
