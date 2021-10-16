@@ -1,1 +1,1 @@
-# class-library-graphservice-template
+# csharp-library-graphservice-template
